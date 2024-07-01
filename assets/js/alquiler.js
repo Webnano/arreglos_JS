@@ -11,7 +11,7 @@ const propiedades_alquiler = [
     },
     {
     nombre: 'Apartamento luminoso con vista al mar',
-    src: '/assets/img/depa2.jpg',
+    src: './assets/img/depa2.jpg',
     descripcion: 'Este hermoso apartamento ofrece una vista impresionante al mar',
     ubicacion: '789 Mountain Road, Summit Peaks, CA 23456',
     habitaciones: 3,
@@ -21,7 +21,7 @@ const propiedades_alquiler = [
     },
     {
     nombre: 'Condominio clasico en zona residencial',
-    src: '/assets/img/cond1.jpg',
+    src: './assets/img/cond1.jpg',
     descripcion: 'Este elegante condominio clasico está ubicado en una tranquila zona residencial',
     ubicacion: '123 Main Street, Anytown, CA 91234',
     habitaciones: 2,
@@ -31,7 +31,7 @@ const propiedades_alquiler = [
     },
     {
     nombre: 'Departamento Moderno ',
-    src: '/assets/img/depa1.jpg',
+    src: './assets/img/depa1.jpg',
     descripcion: 'Este elegante departamento moderno está ubicado en una tranquila zona centro de la cuidad',
     ubicacion: '23 One Street, Los Angeles, CA 91234',
     habitaciones: 2,

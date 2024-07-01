@@ -21,7 +21,7 @@ const propiedades_ventas = [
     },
     {
     nombre: 'Penthouse de lujo con terraza panorámica',
-    src: '/assets/img/casa2.jpg',
+    src: "./assets/img/casa2.jpg",
     descripcion: 'Este penthouse de lujo ofrece una terraza panorámica con vistas espectaculares ',
     ubicacion: '567 Skyline Avenue, Skyview City, CA 56789',
     habitaciones: 3,
@@ -31,7 +31,7 @@ const propiedades_ventas = [
     },
     {
         nombre: 'Casa de Lujo con amplio jardin',
-        src: '/assets/img/casa4.jpg',
+        src: "./assets/img/casa4.jpg",
         descripcion: 'Esta casa de lineas arquitectonicas unicas, ofrece una terraza amplia y acogedora',
         ubicacion: '647 North Central, Pasadena City, CA 56789',
         habitaciones: 4,
