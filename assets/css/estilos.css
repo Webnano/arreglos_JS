@@ -1,0 +1,53 @@
+.main-section {
+    background-image: url('../img/portal.jpg');
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+    
+}
+#rent{
+    background-image: url('../img/alquiler.jpg');
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+#vendele{
+    background-image: url('../img/venta.jpg');
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+.card {
+    height: 100px;
+}
+
+.card img{
+    height: 250px;
+}
+.fondo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 100%;
+    background-color: rgb(30, 29, 29);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+}
